@@ -1,6 +1,6 @@
 # Mysterious Castle - 3D Horror Escape Room
 
-**Module:** CMP-6056B Game Development Coursework  
+**Module:** GAME AND MOBILE APP DEVELOPMENT Coursework
 **Unity Version:** 6000.3.9f1 (Unity 6)
 
 ## Overview
