@@ -58,4 +58,8 @@ UI panels) are original work by the author.
 - `Assets/Level3/`, `Level4/`, `Level5/`, `Main/` - Scene baking data (lighting, navmesh)
 
 ## Technical Highlights
-- Finite State Machine for g
+- Finite State Machine for guard AI (Patrol → Chase → Attack)
+- Unity NavMesh for pathfinding around obstacles
+- Animator Controller (Mecanim) driving guard animations via SetBool
+- Raycast-based player interaction with scene objects
+- Scene-wide state management with timeScale handling across transitions
