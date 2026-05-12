@@ -17,4 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/PolygonHorrorMansion/Scenes/Level1.unity
     guid: dda52f1b21df39c459a6b2eafa31df9d
+  - enabled: 1
+    path: Assets/Level2.unity
+    guid: cd63177c1a778e94c9029e581e798cde
+  - enabled: 1
+    path: Assets/Level3.unity
+    guid: a46f06435042a0940846a9fed873b6df
+  - enabled: 1
+    path: Assets/Level4.unity
+    guid: 45f837ac219d14640918662b58181594
+  - enabled: 1
+    path: Assets/Level5.unity
+    guid: 03395836eb8024d4990e7bc7273955a4
   m_configObjects: {}

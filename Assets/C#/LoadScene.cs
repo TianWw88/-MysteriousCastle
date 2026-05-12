@@ -12,10 +12,12 @@ public class LoadScene : MonoBehaviour {
 	}
 	public void Aload(string name)
 	{
-		SceneManager.LoadScene(name);
+        Time.timeScale = 1;
+        SceneManager.LoadScene(name);
 	}
     public void Anext()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
     public void AExit()
