@@ -48,8 +48,6 @@ Note: Scene file naming starts from Level0 due to early prototyping.
 
 All game scripts (player controller, guard AI, level logic, puzzle mechanics, 
 UI panels) are original work by the author.
-All game scripts (player controller, guard AI, level logic, puzzle mechanics, 
-UI panels) are original work by the author.
 
 ## Project Structure
 - `Assets/C#/` - Core game scripts (player controller, AI, level logic)
