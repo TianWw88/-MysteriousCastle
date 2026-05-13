@@ -42,13 +42,13 @@ Note: Scene file naming starts from Level0 due to early prototyping.
 
 ## External Assets
 - **Polygon Horror Mansion** by Synty Studios - Unity Asset Store
-- **Mobile Modern Interiors** by Synty Studios - Unity Asset Store
-- **Toony Tiny People (TT_Zombies)** - Unity Asset Store
-- **ARPG Effects** - Unity Asset Store
-- **FireWorks** - Unity Asset Store
+- **Toony Tiny People** - Unity Asset Store  
 - **Quick Outline** by Chris Nolet - https://github.com/chrisnolet/QuickOutline
 - **Background music, fonts, and UI icons** - https://www.aigei.com
+- Other minor visual effect packs from Unity Asset Store
 
+All game scripts (player controller, guard AI, level logic, puzzle mechanics, 
+UI panels) are original work by the author.
 All game scripts (player controller, guard AI, level logic, puzzle mechanics, 
 UI panels) are original work by the author.
 
