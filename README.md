@@ -45,7 +45,6 @@ Note: Scene file naming starts from Level0 due to early prototyping.
 - **Toony Tiny People** - Unity Asset Store  
 - **Quick Outline** by Chris Nolet - https://github.com/chrisnolet/QuickOutline
 - **Background music, fonts, and UI icons** - https://www.aigei.com
-- Other minor visual effect packs from Unity Asset Store
 
 All game scripts (player controller, guard AI, level logic, puzzle mechanics, 
 UI panels) are original work by the author.
